@@ -10,3 +10,6 @@ File tested on EssentialsX 2.18.0.0 on MC Paper Spgiot 1.16.1. Older versions ar
 
 To install, replace the worth.yml file in the EssentialsX folder with the one in this repo, 
 and then restart your server for effects to take place. 
+
+Disclaimer: This specific economy is tailored for 1.16+ SMP Servers, and may not work well with
+your specific server type or version. 
