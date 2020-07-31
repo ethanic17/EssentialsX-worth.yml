@@ -1,0 +1,54 @@
+# Created by ethanic17
+# License: GPL 3.0
+# Minecraft 1.16.1 Tuned
+# Items on the list are generally non-farmable or hard-to-obtain to prevent inflation in economy.
+
+worth:
+
+#ores and ore blocks
+  coalore: 2.5
+  ironore: 5
+  redstoneore: 7.5
+  goldore: 9
+  lapisore: 10
+  emeraldore: 100
+  diamondore: 250
+  diamond: 220
+  netheritescrap: 1000
+  netheriteingot: 4000
+  diamondblock: 2000
+  netheriteblock: 36000
+
+#end
+  dragonbreath: 30
+  enderchest: 50
+  endcrystal: 200
+  elytra: 7000
+  shulkershell: 35 # Recommended To Have Double Shulker Shells Datapack Enabled (via VanillaTweaks)
+
+#nether
+  witherskeletonskull: 500 # Yes, wither skulls are farmable but the amount of time it takes to build a farm of this scale is probably not a typical user would do.
+  netherstar: 1550
+  beacon: 1600
+  ghasttear: 50
+
+#blocks:
+  mycelium: 0.8
+  beenest: 25
+  blueice: 10
+  sealantern: 15
+  sponge: 50
+  
+#misc
+  saddle: 35
+  enchantedgoldenapple: 5000
+  heartofthesea: 200
+  conduit: 450
+  trident: 1500
+  totemofundying: 350
+
+  
+  
+
+
+
